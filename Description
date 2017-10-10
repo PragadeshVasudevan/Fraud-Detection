@@ -1,0 +1,4 @@
+This Fraud Detection model is based on Credit card data given by Kaggle. 
+
+In this file, three sample technique undersampling, oversampling, SMOTE. 
+
